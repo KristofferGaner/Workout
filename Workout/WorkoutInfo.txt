@@ -1,0 +1,6 @@
+﻿ExerciseTime:
+30
+BreakTime:
+15
+ExerciseNames
+Burpees, Squats, Pushups, Plank, Wallsit, Biceps, Back, squats, Dips, Crunches, Lunges, Pushups
